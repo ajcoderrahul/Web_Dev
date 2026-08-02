@@ -1,16 +1,16 @@
 #  Laundry Wallah / Laundry Mart
 
-A simple and responsive HTML website for a laundry service business. This project demonstrates the basics of HTML by creating a laundry service webpage with company information, services, pricing, and a booking form.
+It is a simple HTML website for laundry service.
 
 ##  Features
 
-- Welcome section with business introduction
-- Laundry service image
-- List of services offered
-- Price list displayed in a table
-- Booking form for customers
-- Contact information in the footer
-- Simple and beginner-friendly HTML structure
+Header section- Company welcome heading
+About section- Introduction about company
+Image section- Image of company
+Services section- Servics of the company
+Price list secton- Prices of the services
+Book now section- Booking services 
+And it is simple an userfriendly websites
 
 ##  Technologies Used
 
@@ -19,54 +19,52 @@ A simple and responsive HTML website for a laundry service business. This projec
 ##  Project Structure
 
 ```
-Laundry-Wallah/
-│── index.html
-└── README.md
+Web_Dev/
+ index.html
+ README.md
 ```
 
 ##  Services Offered
 
-- Washing and Drying
-- Ironing and Folding
-- Dry Cleaning
-- Stain Removal
-- Express Services
-- Special Garment Care
+Washing and Drying
+Ironing and Folding
+Dry Cleaning
+Stain Removal
+Express Services
+Special Garment Care
 
 ##  Sample Price List
 
-| Service | Price |
-|---------|-------|
-| Washing and Drying | $10.00 |
-| Ironing and Folding | $5.00 |
+Washing and Drying - Rs 10.00
+Ironing and Folding - Rs 5.00
 
 ##  Booking Form
 
 The website includes a booking form where users can enter:
 
-- Name
-- Email Address
-- Phone Number
-- Submit Request
+Name
+Email Address
+Phone Number
+Submit Request
 
 ##  Preview
 
 The webpage contains:
 
-- Header with business name
-- About section
-- Laundry service image
-- Services list
-- Price table
-- Booking form
-- Footer with contact information
+Header with business name
+About section
+Laundry service image
+Services list
+Price table
+Booking form
+Footer with contact information
 
 ##  How to Run
 
 1. Download or clone this repository.
 
 ```bash
-git clone https://github.com/ajcoderrahul/laundry-wallah.git
+git clone https://github.com/ajcoderrahul/Web_Dev.git
 ```
 
 2. Open the project folder.
@@ -75,15 +73,7 @@ git clone https://github.com/ajcoderrahul/laundry-wallah.git
 
 No installation or additional software is required.
 
-##   Future Improvements
 
-- Add CSS for better styling
-- Make the website fully responsive
-- Add JavaScript form validation
-- Store booking requests in a database
-- Online payment integration
-- User login and registration
-- Order tracking system
 
 ##  Author
 
