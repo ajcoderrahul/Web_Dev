@@ -4,13 +4,14 @@ It is a simple HTML website for laundry service.
 
 ##  Features
 
+It is simple an userfriendly websites.
 Header section- Company welcome heading
 About section- Introduction about company
 Image section- Image of company
 Services section- Servics of the company
 Price list secton- Prices of the services
 Book now section- Booking services 
-And it is simple an userfriendly websites
+
 
 ##  Technologies Used
 
