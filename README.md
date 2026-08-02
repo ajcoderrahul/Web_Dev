@@ -66,7 +66,7 @@ The webpage contains:
 1. Download or clone this repository.
 
 ```bash
-git clone https://github.com/your-username/laundry-wallah.git
+git clone https://github.com/ajcoderrahul/laundry-wallah.git
 ```
 
 2. Open the project folder.
