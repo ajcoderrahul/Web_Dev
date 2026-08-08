@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(245, 95, 20);
+}
+.head{
+    color: darkblue;
+}
+#bglime{
+    background-color: lime;
+}
+#high{
+    color: red;
+}
+p{
+    color: white;
+}
+#para{
+    color: green;
+}
+main>P:nth-child(3)>span{
+    color: black;
+    font-size: 25px;
+}
