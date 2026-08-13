@@ -1,11 +1,10 @@
-# CSS Selectors
-This is a simple HTML and CSS website which is made for practising CSS Selectors.
-
+# CSS - Unites, Box Models, Fonts
+This is a simple HTML and CSS website which is made for practising CSS - Unites, Box Models, Fonts.
 
 ## Features
 
 This is begineer friendly website.
-It is made to  practise for CSS Selectors.
+It is made to  practise for CSS -. Unites, Box Models, Fonts.
 
 ## Technologies Used
 
@@ -25,6 +24,7 @@ git clone https://github.com/ajcoderrahul/Web_Dev.git
 3. Open `index.html` in any web browser.
 
 No installation or additional software is required.
+
 
 ##  Author
 

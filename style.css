@@ -1,22 +1,19 @@
+*{
+    box-sizing: border-box;
+}
+
 body{
-    background-color: rgb(245, 95, 20);
+    margin: 10% 25% 10% 25%;
+    
 }
-.head{
-    color: darkblue;
+.image img{
+    width : 40vw;
+
 }
-#bglime{
-    background-color: lime;
-}
-#high{
-    color: red;
-}
-p{
+button{
     color: white;
-}
-#para{
-    color: green;
-}
-main>P:nth-child(3)>span{
-    color: black;
-    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    height : 50px;
+    width: 40vw;
+    background: linear-gradient(45deg, yellow,green);
 }
